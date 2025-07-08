@@ -1,0 +1,95 @@
+.banner{
+    padding: 170px;
+    background:linear-gradient(rgba(0, 0, 0, 0),rgba(17, 15, 15, 0)) ,url("../assets/hero-bg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+     box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+}
+
+.into{
+         text-align: center;
+          color: #FFFFFF;
+}
+
+.button{
+    margin-top: 10px;
+    padding: 21px 32px;
+    background-color: #52C303;
+    color: #FFFFFF;
+    border-radius: 10px;
+    border: none;
+}
+
+.about{
+    margin: 30px 10px;
+    display: flex;
+    border: 1px solid beige;
+}
+
+.details{
+    margin: 50px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.icons{
+    margin: 10px;
+}
+
+.pizza{
+    background-color: #c1e2aa;
+    color: #101010;
+    padding: 10px 20px;
+}
+
+.img{
+    border-radius: 10px;
+}
+
+.burg{
+    display: flex;
+    padding: 10px;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.watch{
+    padding: 10px 20px;
+    color: #FFFFFF;
+    background-color: #52C303;
+    border: none;
+}
+
+.card{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+     box-shadow: 0 10px 25px rgba(10, 9, 9, 0.1);
+}
+
+.tab{
+    display: flex;
+    justify-content: center;
+}
+
+.cardbox{
+    margin: 20px;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+.footer{
+    margin: 20px;
+    padding: 15px;
+    background: linear-gradient(rgba(143, 137, 137, 0),rgba(221, 206, 206, 0)),url("../assets/social-bg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
